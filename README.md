@@ -2,9 +2,11 @@
 
 ## About me
 
-Changing careers, studying Software Engineering at UPE.
+Changing careers, studying Software Engineering at UPE (Universidade de Pernambuco). Formally an English Translator and Teacher.
 
-I've been formally studying programming since 2023, but I've been interested in computing ever since I was a kid, when I used to fuss around a lot with different Linux distributions.
+Interested in Data Science. Skilled at programming with Python and currently learning more about web development at EBAC (Escola Britânica de Artes Criativas e Tecnologia).
+
+I've only formally studied programming since recently, but I've been interested in computing ever since I was a kid, when I used to fuss around a lot with different Linux distributions.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilarre/)
