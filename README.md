@@ -6,7 +6,7 @@ Changing careers, studying Software Engineering at UPE (Universidade de Pernambu
 
 Interested in Data Science. Skilled at programming with Python and currently learning more about web development at EBAC (Escola Britânica de Artes Criativas e Tecnologia).
 
-I've only formally studied programming since recently, but I've been interested in computing ever since I was a kid, when I used to fuss around a lot with different Linux distributions.
+I've only recently started studying more about programming, but I've been interested in computing ever since I was a kid, when I used to fuss around a lot with different Linux distributions.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilarre/)
