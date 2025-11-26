@@ -33,4 +33,4 @@ Interested in Data Science. Skilled at programming with Python and currently lea
 
 ## Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Arch Linux]([https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff))
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
