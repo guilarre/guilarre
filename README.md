@@ -6,6 +6,15 @@ Studying Computer Science at UNICAP (Universidade Católica de Pernambuco). Form
 
 Interested in Data Science. Skilled at programming with Python and currently learning more about Natural Language Processing and Machine Learning.
 
+## Pinned repositories 📌
+1. [UPE_programacao_2](https://github.com/guilarre/UPE_programacao_2):
+
+    - asdasdsa
+
+2. [UPE_programacao_1](https://github.com/guilarre/UPE_programacao_1)
+
+    - asdasd
+
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilarre/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilarre/)
