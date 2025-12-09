@@ -1,19 +1,16 @@
 # Guilherme Larré 🏳️‍🌈
 
 ## About me
-
 Studying Computer Science at UNICAP (Universidade Católica de Pernambuco). Formally an English Translator and Teacher.
 
 Interested in Data Science. Skilled at programming with Python and currently learning more about Natural Language Processing and Machine Learning.
 
 ## Pinned repositories 📌
-1. [UPE_programacao_2](https://github.com/guilarre/UPE_programacao_2):
+1. [Structured programming project (C)](https://github.com/guilarre/projeto_programacao_estruturada)
 
-    - asdasdsa
+2. [OOP project (Java)](https://github.com/guilarre/UPE_programacao_2)
 
-2. [UPE_programacao_1](https://github.com/guilarre/UPE_programacao_1)
-
-    - asdasd
+3. [Intro to programming project (Python)](https://github.com/guilarre/UPE_programacao_1)
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilarre/)
