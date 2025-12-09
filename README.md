@@ -1,9 +1,9 @@
-# Guilherme Larré 🏳️‍🌈
+# Guilherme Larré 🏳️‍🌈🇧🇷
 
 ## About me
 Studying Computer Science at UNICAP (Universidade Católica de Pernambuco). Formally an English Translator and Teacher.
 
-Interested in Data Science. Skilled at programming with Python and currently learning more about Natural Language Processing and Machine Learning.
+Interested in Data Science. Currently learning more about Natural Language Processing and Machine Learning.
 
 ## Pinned repositories 📌
 1. [Structured programming project (C)](https://github.com/guilarre/projeto_programacao_estruturada)
@@ -22,9 +22,9 @@ Interested in Data Science. Skilled at programming with Python and currently lea
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/-C-lightpink?style=for-the-badge&logo=c&logoColor=black)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![Sveltekit](https://img.shields.io/badge/sveltekit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
