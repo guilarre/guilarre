@@ -15,10 +15,6 @@ Interested in Data Science. Currently learning more about Natural Language Proce
 
   - [Intro to programming project (Python)](https://github.com/guilarre/UPE_programacao_1)
 
-- Random stuff I wrote
-
-  - [Dotfiles and some scripts for my Arch Linux setup](https://github.com/guilarre/dotfiles_i3_arch_linux)
-
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilarre/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilarre/)
