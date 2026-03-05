@@ -15,7 +15,7 @@ Interested in Data Science. Currently learning more about Natural Language Proce
 
   - [Intro to programming project (Python)](https://github.com/guilarre/UPE_programacao_1)
 
-- Random/custom stuff
+- Random stuff I wrote
 
   - [Dotfiles and some scripts for my Arch Linux setup](https://github.com/guilarre/dotfiles_i3_arch_linux)
 
