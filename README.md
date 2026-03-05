@@ -6,11 +6,18 @@ Studying Computer Science at UNICAP (Universidade Católica de Pernambuco). Form
 Interested in Data Science. Currently learning more about Natural Language Processing and Machine Learning.
 
 ## Pinned repositories 📌
-1. [Structured programming project (C)](https://github.com/guilarre/projeto_programacao_estruturada)
 
-2. [OOP project (Java)](https://github.com/guilarre/UPE_programacao_2)
+- University projects
 
-3. [Intro to programming project (Python)](https://github.com/guilarre/UPE_programacao_1)
+  - [Structured programming project (C)](https://github.com/guilarre/projeto_programacao_estruturada)
+
+  - [OOP project (Java)](https://github.com/guilarre/UPE_programacao_2)
+
+  - [Intro to programming project (Python)](https://github.com/guilarre/UPE_programacao_1)
+
+- Random/custom stuff
+
+  - [Dotfiles and some scripts for my Arch Linux setup](https://github.com/guilarre/dotfiles_i3_arch_linux)
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilarre/)
