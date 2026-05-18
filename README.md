@@ -9,11 +9,11 @@ Interested in Data Science. Currently learning more about Natural Language Proce
 
 - University projects
 
-  - [Structured programming project (C)](https://github.com/guilarre/projeto_programacao_estruturada)
+  - [Dynamic memory management and sorting algorithms (Structured programming, C)](https://github.com/guilarre/projeto_programacao_estruturada)
 
-  - [OOP project (Java)](https://github.com/guilarre/UPE_programacao_2)
+  - [Sales and stock terminal program (OOP, Java)](https://github.com/guilarre/UPE_programacao_2)
 
-  - [Intro to programming project (Python)](https://github.com/guilarre/UPE_programacao_1)
+  - [Car stock terminal program (Introduction to programming, Python)](https://github.com/guilarre/UPE_programacao_1)
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilarre/)
