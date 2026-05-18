@@ -28,5 +28,5 @@ Interested in Data Science. Currently learning more about Natural Language Proce
   - [Car stock terminal program](https://github.com/guilarre/UPE_programacao_1) (Introduction to programming, Python)
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilarre/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilarre/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guilarre/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/guilarre/)
