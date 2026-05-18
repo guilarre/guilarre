@@ -7,10 +7,15 @@ Interested in Data Science. Currently learning more about Natural Language Proce
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cs,docker,svelte,ts,tailwind,bootstrap,jquery,js,html,css,git,neovim,vscode,visualstudio,bash,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cs,docker,git)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,svelte,tailwind,bootstrap,jquery)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode,visualstudio,bash,arch,windows)](https://skillicons.dev)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
 ## Pinned repositories 📌
 
