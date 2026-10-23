@@ -21,11 +21,15 @@ Interested in Data Science. Currently learning more about Natural Language Proce
 
 - University projects
 
-  - [Dynamic memory management and sorting algorithms](https://github.com/guilarre/projeto_programacao_estruturada) (Structured programming, C)
+  - [Refactoring a codebase in Java](https://github.com/guilarre/projeto_aps) (Software Design and Analysis, Java)
 
-  - [Sales and stock terminal program](https://github.com/guilarre/UPE_programacao_2) (OOP, Java)
+  - [Hash table using separate chaining for handling collision](https://github.com/guilarre/projeto_edl) (Linear data structures, C)
 
-  - [Car stock terminal program](https://github.com/guilarre/UPE_programacao_1) (Introduction to programming, Python)
+  - [Dynamic memory allocation and sorting algorithms](https://github.com/guilarre/projeto_programacao_estruturada) (Structured programming, C)
+
+  - [Sales and stock management system](https://github.com/guilarre/UPE_programacao_2) (OOP, Java)
+
+  - [Car dealership stock management system](https://github.com/guilarre/UPE_programacao_1) (Introduction to programming, Python)
 
 ## Connect with me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guilarre/)
