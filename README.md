@@ -21,6 +21,8 @@ Interested in Data Science. Currently learning more about Natural Language Proce
 
 - University projects
 
+  - [Multiplayer Simon/Genius game in Arduino](https://github.com/guilarre/projeto_multiplayer-genius_tinkercad) (Interface Design and Usability, C++)
+
   - [Refactoring a codebase in Java](https://github.com/guilarre/projeto_aps) (Software Design and Analysis, Java)
 
   - [Hash table using separate chaining for handling collision](https://github.com/guilarre/projeto_edl) (Linear data structures, C)
