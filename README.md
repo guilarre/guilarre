@@ -7,7 +7,7 @@ Interested in Data Science. Currently learning more about Natural Language Proce
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cs,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,cs,docker,git)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,svelte,tailwind,bootstrap,jquery)](https://skillicons.dev)
 
