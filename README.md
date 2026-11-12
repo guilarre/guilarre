@@ -21,6 +21,10 @@ Interested in Data Science. Currently learning more about Natural Language Proce
 
 - University projects
 
+  - [Android bus app](https://github.com/guilarre/projeto_pwm) (Web and Mobile Programming, React Native/Typescript/Javascript/Python)
+
+  - [Demonstration of thread concurrency problems and DBMS](https://github.com/guilarre/pbd_demonstracoes_problema-de-concorrencia) (Database Design, C/Postgres)
+
   - [Multiplayer Simon/Genius game in Arduino](https://github.com/guilarre/projeto_multiplayer-genius_tinkercad) (Interface Design and Usability, C++)
 
   - [Refactoring a codebase in Java](https://github.com/guilarre/projeto_aps) (Software Design and Analysis, Java)
